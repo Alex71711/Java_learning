@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_learning.iml" filepath="$PROJECT_DIR$/Java_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP part 1/OOP part 1.iml" filepath="$PROJECT_DIR$/OOP part 1/OOP part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP part 2/OOP part 2.iml" filepath="$PROJECT_DIR$/OOP part 2/OOP part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP part 3/OOP part 3.iml" filepath="$PROJECT_DIR$/OOP part 3/OOP part 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Syntax/Syntax.iml" filepath="$PROJECT_DIR$/Syntax/Syntax.iml" />
+    </modules>
+  </component>
+</project>

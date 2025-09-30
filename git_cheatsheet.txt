@@ -1,0 +1,41 @@
+Git - основные команды
+
+1. Настройка пользователя
+
+git config –global user.name “Ваше имя” git config –global user.email
+“ваш.email@example.com”
+
+2. Проверка настроек
+
+git config –list
+
+3. Создание репозитория
+
+git init
+
+4. Добавление файлов в индекс (staging)
+
+git add file.txt # добавить один файл git add . # добавить все изменения
+в папке
+
+5. Создание коммита
+
+git commit -m “Сообщение коммита” git commit -am “Сообщение” # добавить
+и закоммитить изменённые файлы (но не новые)
+
+6. Статус и история
+
+git status # показывает изменения и состояние файлов git log # история
+коммитов
+
+7. Работа с удалённым репозиторием (GitHub/GitLab)
+
+git remote add origin # привязка удалённого репо git push -u origin main
+# первый пуш git push # отправка изменений git pull # получение
+изменений
+
+8. Ветки
+
+git branch # список веток git checkout -b new # создать и перейти в
+новую ветку git switch main # переключиться на ветку main git merge
+branchname # слить ветку с текущей
